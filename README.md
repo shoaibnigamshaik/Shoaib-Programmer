@@ -1,6 +1,6 @@
 # About Me:
 <img src="https://github.com/user-attachments/assets/5919635c-872e-43ae-9beb-b5dfdcf4a106" alt="About Me Icon" height="200" style="display: block; margin: auto;"><br>
-I am a high-schooler and computer science enthusiast from<br>India. I've completed various CS50s: x, P, and W, and I am on<br>AI currently. I've also completed a course on HTB academy<br>on Linux.<br><br>I code in various programming languages like Python, Javascript, HTML, CSS...<br> and I've built websites with different rendering patterns like SSR, SPA, and server-side apps. I've also built a sudoku<br>solver with a GUI in C.<br><br>*Hire me before I ```import poverty```.*
+I am a high-schooler and computer science enthusiast from<br>India.
 
 
 ## 🌐 Socials:
